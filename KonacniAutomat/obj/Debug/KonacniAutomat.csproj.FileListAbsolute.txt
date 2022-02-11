@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\bin\Debug\KonacniAutomat.exe.config
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\bin\Debug\KonacniAutomat.exe
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\bin\Debug\KonacniAutomat.pdb
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\obj\Debug\KonacniAutomat.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\obj\Debug\KonacniAutomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\obj\Debug\KonacniAutomat.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\obj\Debug\KonacniAutomat.exe
+C:\Users\LaPeM\source\repos\KonacniAutomat\KonacniAutomat\obj\Debug\KonacniAutomat.pdb
